@@ -3,7 +3,7 @@
 Nixpkgs relies on patching low level tools and injecting extra configuration
 into build systems. When it all works, Nix is invisible magic to the user. When
 it fails, Nix's complexity explodes into full view. Understanding what went
-wrong usually required reading the Nixpkgs source code (something most users
+wrong usually requires reading the Nixpkgs source code (something most users
 should never be expected to do since neither bash nor nix are known for
 readability).
 
